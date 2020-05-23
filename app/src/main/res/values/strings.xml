@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="tv_name">Input your name.</string>
+    <string name="bt_block">Show</string>
+    <string name="next">Next</string>
+    <string name="prev">Prev</string>
+</resources>
